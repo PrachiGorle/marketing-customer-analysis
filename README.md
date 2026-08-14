@@ -134,7 +134,7 @@ Focuses on:
 - Campaign responses
 - Overall customer and purchase KPIs
 
-![Marketing Overview](dashboard/page1_marketing_overview.png)
+![Marketing Overview](Dashboard/Marketing%20Overview.png)
 
 ### 2️⃣ Customer Analysis
 
@@ -147,7 +147,7 @@ Focuses on:
 - Education-level customer distribution
 - Interactive customer filters
 
-![Customer Analysis](dashboard/page2_customer_analysis.png)
+![Customer Analysis](Dashboard/Customer%20Analysis.png)
 
 ### 3️⃣ Product & Campaign Analysis
 
@@ -158,7 +158,7 @@ Focuses on:
 - Campaign response comparison
 - Purchase channel performance
 
-![Product & Campaign Analysis](dashboard/page3_product_campaign_analysis.png)
+![Product&Campaign](Dashboard/Product%26Campaign.png)
 
 ## Key Insights
 
