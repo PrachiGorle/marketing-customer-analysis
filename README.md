@@ -1,4 +1,3 @@
-# marketing-customer-analysis
 # Marketing & Customer Analysis
 
 An end-to-end Data Analytics project using Python, SQL and Power BI to analyze customer behavior, product spending, purchase channels and campaign performance.
